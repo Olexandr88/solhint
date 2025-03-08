@@ -16,7 +16,7 @@ https://coveralls.io/github/protofire/solhint?branch=master)
 This is an open source project for linting [Solidity](http://solidity.readthedocs.io/en/develop/) code. This project
 provides both **Security** and **Style Guide** validations.
 <br>
-[VISIT OUR WEBSITE](https://protofire.io/projects/solhint)<br>
+[VISIT OUR WEBSITE](https://protofire.io/solhint)<br>
 [JOIN OUR DISCORD SERVER](https://discord.gg/4TYGq3zpjs)
 <br>
 ## Installation
